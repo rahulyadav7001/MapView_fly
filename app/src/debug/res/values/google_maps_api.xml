@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=F5:9B:8E:66:72:6D:D3:E0:59:14:84:30:BB:A6:FC:4C:D8:3B:40:03%3Bcom.example.flytta.flyttatestapp
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    F5:9B:8E:66:72:6D:D3:E0:59:14:84:30:BB:A6:FC:4C:D8:3B:40:03
+
+    SHA-1 certificate fingerprint:
+    F5:9B:8E:66:72:6D:D3:E0:59:14:84:30:BB:A6:FC:4C:D8:3B:40:03
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAKguzTwy3360CnBxTOjvLyOf2JTBgFpb8</string>
+</resources>
